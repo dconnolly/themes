@@ -1,0 +1,7 @@
+[submodule "roots"]
+	path = roots
+	url = https://github.com/retlehs/roots.git
+
+[submodule "bwrfc"]
+	path = bwrfc
+	url = https://github.com/dconnolly/bwrfc.git
